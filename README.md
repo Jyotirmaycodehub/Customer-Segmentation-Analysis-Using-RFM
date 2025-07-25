@@ -11,7 +11,7 @@ This project analyzes customer behavior using Recency, Frequency, and Monetary (
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](💡 RFM Customer Segmentation Dashboard_Understanding Customer Value Through Behavior_.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## 🔗 Tableau Public Link
 [View Full Dashboard](https://public.tableau.com/views/RFMCustomerSegmentationDashboard_17534348218150/RFMCustomerSegmentationDashboardUnderstandingCustomerValueThroughBehavior?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
